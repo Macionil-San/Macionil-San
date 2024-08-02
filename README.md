@@ -17,6 +17,8 @@ class SobreMim extends Desenvolvedor {
 
 ```
 
+
+
 <table>
   <tr>
     <td>
@@ -46,7 +48,7 @@ class SobreMim extends Desenvolvedor {
  
  
 <div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <h3><b>📍 Profile Visitor Count</b></h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="240">
 </div>
     
 <p align="center" >   
