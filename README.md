@@ -1,6 +1,8 @@
-### Seja bem vindo ao meu portifólio 
 
-<img height="270px" align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 
 ```js
 import Desenvolvedor from "Ruan Macionil";
@@ -44,7 +46,7 @@ class SobreMim extends Desenvolvedor {
  
  
 <div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Profile Visitor Count</b></h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
     
 <p align="center" >   
