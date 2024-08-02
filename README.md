@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu portifólio 
 
-<img height="270px" align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img height="270px" align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```js
 import Desenvolvedor from "Ruan Macionil";
@@ -12,12 +12,7 @@ class SobreMim extends Desenvolvedor {
   local = "Vila Mariana - SP";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["DotNet Core (C#), JavaScript, TypeScript"];
-  bibliotecas = ["ReactJS"];
-  frameworks = ["React.js, Angular.js, Next.js"];
-  fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
-}
+
 ```
 
 <table>
