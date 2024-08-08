@@ -36,19 +36,19 @@ class SobreMim extends Desenvolvedor {
 
 #
 
-[<img align="left" height="50px" width="100px" alt="Warpnet" src="https://github.com/G648/G648/assets/54600850/df40fbee-6a0b-4243-a2db-9f7e0c7391ea"/>](https://sp.senai.br/unidade/conectividade/)
+[<img align="left" height="35px" width="80px" alt="Warpnet" src="https://github.com/G648/G648/assets/54600850/df40fbee-6a0b-4243-a2db-9f7e0c7391ea"/>](https://sp.senai.br/unidade/conectividade/)
 
 **Joven aprendiz do Metrô São Paulo** \
 [**SENAI - "Anchieta" **](https://sp.senai.br/unidade/conectividade/) •
 <br/>
 
 
-<br/>
-<br/>
+
+
  
  
 <div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="240">
+  <h3><b>📍 Profile Visitor Count</b></h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
 </div>
     
 <p align="center" >   
