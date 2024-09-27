@@ -31,7 +31,7 @@ class SobreMim extends Desenvolvedor {
 </table><br/>
 
 #
-## O que estou aprendendo:  <img src="https://github.com/Macionil-San/Macionil-San/blob/main/2be53fe7.gif" width="180">
+## O que estou aprendendo:  <img src="https://github.com/Macionil-San/Macionil-San/blob/main/2be53fe7.gif" width="130">
 
 <div align="center" style="display: inline_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
