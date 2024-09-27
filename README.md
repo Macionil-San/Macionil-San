@@ -3,7 +3,6 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-
 ```js
 import Desenvolvedor from "Ruan Macionil";
 
@@ -32,7 +31,7 @@ class SobreMim extends Desenvolvedor {
 </table><br/>
 
 #
-## O que estou aprendendo:
+## O que estou aprendendo:  <img src="https://github.com/Macionil-San/Macionil-San/blob/main/2be53fe7.gif" width="180">
 
 <div align="center" style="display: inline_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
