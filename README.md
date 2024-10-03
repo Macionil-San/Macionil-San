@@ -1,6 +1,3 @@
-
-<img align= 'center' src= "https://raw.githubusercontent.com/Macionil-San/Macionil-San/b81ed236a0cc394952aef8061c177bc498448828/Black%20Neon%20Pink%20Purple%20Arcade%20Pixel%20Music%20Twitch%20Panel/2.svg" width= "900"  >
-
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -33,7 +30,7 @@ class SobreMim extends Desenvolvedor {
 </table><br/>
 
 #
-## O que estou aprendendo:  <img src="https://github.com/Macionil-San/Macionil-San/blob/main/2be53fe7.gif" width="130">
+## O que estou aprendendo:  <img src="https://github.com/Macionil-San/Macionil-San/blob/main/b2605902adc57f59500e027fa17adbad.gif" width="130">
 
 <div align="center" style="display: inline_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
