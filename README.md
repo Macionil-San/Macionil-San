@@ -1,4 +1,6 @@
 
+<img align= 'center' src= "https://raw.githubusercontent.com/Macionil-San/Macionil-San/b81ed236a0cc394952aef8061c177bc498448828/Black%20Neon%20Pink%20Purple%20Arcade%20Pixel%20Music%20Twitch%20Panel/2.svg" width= "900"  >
+
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
