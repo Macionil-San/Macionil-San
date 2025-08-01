@@ -39,7 +39,7 @@ class SobreMim extends Desenvolvedor {
 ## 🛠️ &nbsp;Tecnologias e Linguagens
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ea1210?style=for-the-badge&logo=openjdk&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <br>
