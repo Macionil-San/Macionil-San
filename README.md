@@ -1,5 +1,5 @@
 
-   <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Olá,+eu+sou+o+Ruan+Macionil;Jr+Developer💻;Seja+bem-vindo+ao+meu+Github+:)" alt="Typing SVG">
+   <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Olá,+eu+sou+o+Ruan+Macionil;Jr+Developer💻;Seja+bem-vindo+ao+meu+Github🐧" alt="Typing SVG">
 </a>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
