@@ -27,7 +27,7 @@ class SobreMim extends Desenvolvedor {
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Macionil-San&show_icons=true&theme=radical" alt="Github stats" />
  </td>
 <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAcionil-San&theme=dark&hide_&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macionil-San&theme=dark&hide_&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
 </td>
 
 </tr>
