@@ -66,7 +66,7 @@ class SobreMim extends Desenvolvedor {
 ---
 [<img align="left" height="35px" width="80px" alt="Warpnet" src="https://github.com/G648/G648/assets/54600850/df40fbee-6a0b-4243-a2db-9f7e0c7391ea"/>](https://sp.senai.br/unidade/conectividade/)
 
-**Joven aprendiz do Metrô São Paulo** \
+**Jovem aprendiz do Metrô São Paulo** \
 [**SENAI - "Anchieta" **](https://sp.senai.br/unidade/conectividade/) •
 ---
 
