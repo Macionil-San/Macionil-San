@@ -1,10 +1,10 @@
 
-   <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Olá,+eu+sou+o+Ruan+Macionil;Developer💻;Seja+bem-vindo+ao+meu+Github🐧" alt="Typing SVG">
+   <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Olá,+eu+sou+o+Ruan+Macionil;Developer;Seja+bem-vindo+ao+meu+Github" alt="Typing SVG">
 </a>
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230" >
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```js
 import Desenvolvedor from "Ruan Macionil";
@@ -12,8 +12,8 @@ import Desenvolvedor from "Ruan Macionil";
 class SobreMim extends Desenvolvedor {
   nome = "Ruan Macionil";
   area = "DEV";
-  trabalho = "Metro SP";
-  local = "Vila Mariana - SP";
+  trabalho = "BTG Pactual";
+  local = "Faria Lima - SP";
 }
 
 
@@ -34,9 +34,9 @@ class SobreMim extends Desenvolvedor {
 </table><br/>
 
 #
-## O que estou aprendendo:  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="110">
+
 ---
-## 🛠️ &nbsp;Tecnologias e Linguagens
+##  &nbsp;Tecnologias e Linguagens
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ea1210?style=for-the-badge&logo=openjdk&logoColor=black"/>
@@ -51,7 +51,7 @@ class SobreMim extends Desenvolvedor {
 </p>
 
 ---
-## 🧰 &nbsp;Ferramentas e Ambientes
+##  &nbsp;Ferramentas e Ambientes
 
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -64,10 +64,10 @@ class SobreMim extends Desenvolvedor {
 
 ---
 ---
-[<img align="left" height="35px" width="80px" alt="Warpnet" src="https://github.com/G648/G648/assets/54600850/df40fbee-6a0b-4243-a2db-9f7e0c7391ea"/>](https://sp.senai.br/unidade/conectividade/)
+[<img align="left" justify="center" height="60px" width="60px" alt="Warpnet" src="https://play-lh.googleusercontent.com/O5Z9jsv79WTfdd37TFPyIwAQjNotIZTTEC6sOXaD3_2IXrMjtOI2ZnqReOicI3TgmqI"/>](https://)
 
-**Jovem aprendiz do Metrô São Paulo** \
-[**SENAI - "Anchieta" **](https://sp.senai.br/unidade/conectividade/) •
+**Estágiario do Banco BTG** \
+[** BTG - Pactual **](https://sp.senai.br/unidade/conectividade/) 
 ---
 
 
